@@ -4,9 +4,6 @@ A very simple Camel route in a standalone Java class that writes out Hello World
 
 The class `CamelDemoMainClass` shows how to use Camel's `Main` class to start the CamelContext and keep it running for 30 seconds.
 
-        -DgroupId=xyz.tomd.cameldemos \ 
-        -DartifactId=camel-standalone-helloworld
-
 ## To run
 
 To run the example:
