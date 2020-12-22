@@ -1,4 +1,4 @@
-package com.cleverbuilder.examples;
+package xyz.tomd.cameldemos.standalone;
 
 import org.apache.camel.CamelContext;
 import org.apache.camel.builder.RouteBuilder;
